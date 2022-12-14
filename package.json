@@ -16,6 +16,8 @@
     "cros": "^1.0.1",
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
-    "mongodb": "^4.12.0"
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^4.12.0",
+    "stripe": "^11.1.0"
   }
 }
